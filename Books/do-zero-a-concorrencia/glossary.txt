@@ -1,0 +1,17 @@
+Arity - aridade
+Pattern Matching
+Sistemas distribuidos
+Atoms
+
+
+iex> inspect ["Livro de Elixir", 1, 2, 3, 4, 5]
+"[\"Livro de Elixir\", 1, 2, 3, 4, 5]"
+iex> a = 2 + 2
+4
+iex> inspect a
+"4"
+
+
+guard clauses (cláusulas de guarda ou
+protetoras)
+
